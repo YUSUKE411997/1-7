@@ -3,3 +3,32 @@
   padding:0;
   box-sizing:border-box;
 }
+
+header{
+  width:100%;
+  height:400px;
+  background-image:url(img/mv.jpg);
+  background-position: bottom;
+  background-size:cover;
+}
+
+.header-text{
+  padding:20px 0 0 20px;
+}
+
+main{
+  width:840px;
+  margin:50px auto;
+}
+
+
+.main-top{
+  padding-bottom:30px;
+  margin-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+}
+
+.last{
+  padding-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+}
